@@ -9,3 +9,5 @@ I have tried to compile the learnings in mind maps. You can find them here.
 ## Tutorials
 
 1. First Machine Learning Project Tutorial - [Source](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
+2. Python Excel Tutorial - [Datacamp](https://www.datacamp.com/community/tutorials/python-excel-tutorial), [Automate the Boring Stuff](https://automatetheboringstuff.com/chapter12/)  
+SQLite operations in python - [Sebastian Raschka](http://sebastianraschka.com/Articles/2014_sqlite_in_python_tutorial.html)
